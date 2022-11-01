@@ -1,0 +1,19 @@
+{
+  "name": "pwebejnode",
+  "version": "1.0.0",
+  "description": "Hola MUnso node PWII",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "keywords": [
+    "aprendiendo",
+    "node"
+  ],
+  "author": "griselda21@unitec.edu",
+  "license": "ISC",
+  "dependencies": {
+    "mathjs": "^11.3.2"
+  }
+}
